@@ -30,16 +30,17 @@ Maker Camp believes in videogames as a tool to talk and connect with childrens a
 ### **What do we work with**
 
 ![Minecraft](https://img.shields.io/static/v1?style=for-the-badge&message=Minecraft&color=62B47A&logo=Minecraft&logoColor=FFFFFF&label=)
-![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Roblox](https://img.shields.io/static/v1?style=for-the-badge&message=Roblox+Studio&color=000000&logo=Roblox&logoColor=FFFFFF&label=)
 ![Aseprite](https://img.shields.io/static/v1?style=for-the-badge&message=Aseprite&color=7D929E&logo=Aseprite&logoColor=FFFFFF&label=)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Godot Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Godot+Engine&color=478CBF&logo=Godot+Engine&logoColor=FFFFFF&label=)
+![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![WebStorm](https://img.shields.io/static/v1?style=for-the-badge&message=WebStorm&color=000000&logo=WebStorm&logoColor=FFFFFF&label=)
 ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -55,4 +56,4 @@ Maker Camp believes in videogames as a tool to talk and connect with childrens a
 Our Discord's main language is Italian
 </div>
 </br></br>
-<font size="1">© Makercamp SRLS - 2022</font>
+© Makercamp SRLS - 2022
