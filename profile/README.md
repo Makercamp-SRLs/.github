@@ -48,12 +48,10 @@ Maker Camp believes in videogames as a tool to talk and connect with childrens a
 
 ### **Do you know what are we talking about? Reach to us!**
 
-<a href="https://discord.gg/6FHtqfCaRX"><img alt="Discord invite" height="38" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.linkedin.com/company/makercamp/"><img alt="Linkedin" height="38" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/Makercamp-SRLs"><img alt="GitHub" height="38" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://makercamp.it"><img alt="Our Website" height="38" src="https://user-images.githubusercontent.com/13642582/202462944-a230e0ef-06e2-418e-9008-719e7fb780e6.svg"></a>
 
-Our Discord's main language is Italian
 </div>
 </br></br>
-© Makercamp SRLS - 2022
+© Makercamp SRLS - 2023
